@@ -6,7 +6,7 @@ import { Component, OnInit} from '@angular/core';
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent {
-  title: string = 'Nuestra lista de tareas';
+  title: string = 'To do List';
 
   constructor() {}
 
