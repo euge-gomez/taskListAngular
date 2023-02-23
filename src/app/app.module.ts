@@ -13,6 +13,7 @@ import { TasksItemComponent } from './components/tasks-item/tasks-item.component
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { AddTaskComponent } from './components/add-task/add-task.component';
 import { AboutComponent } from './components/about/about.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 const appRoutes: Routes = [
 
@@ -30,7 +31,8 @@ const appRoutes: Routes = [
     TasksComponent,
     TasksItemComponent,
     AddTaskComponent,
-    AboutComponent
+    AboutComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

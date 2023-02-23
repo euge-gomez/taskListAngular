@@ -77,3 +77,15 @@ body{
     flex: 2;
     height: 20px;
 }
+.about {
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
