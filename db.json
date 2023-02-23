@@ -7,10 +7,10 @@
       "reminder": true
     },
     {
-      "id": 3,
-      "text": "Investigar sobre bootstrap",
-      "day": "Agosto 5 a las 19:00",
-      "reminder": false
+      "text": "Ir casa de Negri",
+      "day": "24 de febrero 8:00",
+      "reminder": true,
+      "id": 2
     }
   ]
 }
